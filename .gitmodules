@@ -25,3 +25,6 @@
 [submodule "base16-xcode"]
 	path = base16-xcode
 	url = https://github.com/joedynamite/base16-xcode
+[submodule "base16-terminal-app"]
+	path = base16-terminal-app
+	url = https://github.com/korzhyk/base16-terminal-app
