@@ -28,3 +28,6 @@
 [submodule "base16-terminal-app"]
 	path = base16-terminal-app
 	url = https://github.com/korzhyk/base16-terminal-app
+[submodule "base16-binary-ninja"]
+	path = base16-binary-ninja
+	url = https://github.com/evanrichter/base16-binary-ninja
