@@ -31,3 +31,6 @@
 [submodule "base16-binary-ninja"]
 	path = base16-binary-ninja
 	url = https://github.com/evanrichter/base16-binary-ninja
+[submodule "base16-iterm2-martinlindhe"]
+	path = base16-iterm2-martinlindhe
+	url = https://github.com/martinlindhe/base16-iterm2
